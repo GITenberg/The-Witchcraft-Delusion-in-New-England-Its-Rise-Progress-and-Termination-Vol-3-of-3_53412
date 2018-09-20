@@ -1,0 +1,41 @@
+_repo: The-Witchcraft-Delusion-in-New-England-Its-Rise-Progress-and-Termination-Vol-3-of-3_53412
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Calef, Robert
+    birthdate: 1648
+    deathdate: 1719
+    gutenberg_agent_id: '45748'
+    url: http://www.gutenberg.org/2009/agents/45748
+  - agent_name: Mather, Cotton
+    alias: Mather, C. (Cotton)
+    birthdate: 1663
+    deathdate: 1728
+    gutenberg_agent_id: '33376'
+    url: http://www.gutenberg.org/2009/agents/33376
+    wikipedia: http://en.wikipedia.org/wiki/Cotton_Mather
+  editor:
+    agent_name: Drake, Samuel G.
+    aliases:
+    - Drake, S. Gardner (Samuel Gardner)
+    - Drake, Samuel Gardner
+    birthdate: 1798
+    deathdate: 1875
+    gutenberg_agent_id: '45749'
+    url: http://www.gutenberg.org/2009/agents/45749
+description: ''
+gutenberg_issued: '2016-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- New England'
+- !lcc 'BF'
+- GITenberg
+title: 'The Witchcraft Delusion in New England: Its Rise, Progress, and Termination
+  (Vol. 3 of 3)'
+url: http://www.gutenberg.org/ebooks/53412
